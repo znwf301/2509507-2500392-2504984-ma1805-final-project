@@ -23,7 +23,18 @@ Group Miro Board: https://miro.com/welcomeonboard/VFkwNmVsM0s0Y2xhTStqWFRZOTZZWF
 
 Max Babcock: My main contributions to the project were all of the art assets for the game itself, including the backgrounds, level tiles, and character icons and sprites. For the overworld level design, using the inital level designs provided to me by Zack, I planned out what type of assets to draw for them, and which assets could be modified in order to reduce workload. After initial sketches and planning, simple character icons were made to show whats where on the map, which would become more detailed when the player entered combat, with GIF sprites made by me being used on both sides. These ended up becoming more simplified due to time constranints. 
 
-Andrew Attiogbe: Coder - 5 day extension (New Submission date 13/05/25)
+Andrew Attiogbe: 
+Role: Project coder
+Contribution
+- Created the Project name to fit with the story (fit far better with the Original story)
+- Created the Original story (How character names fit the story, character motivation and game's deeper meaning)
+- Original character stats and mechaninics 
+- Game Designer (Cutscene layout, Level layout, Turn base layout)
+- Powerpoint showcasing the above: https://rhul-my.sharepoint.com/:p:/r/personal/znwf301_live_rhul_ac_uk/Documents/ASR.pptx?d=wd7f413f38b0c4e439321eebabe5d369f&csf=1&web=1&e=8C9wbI
+- W.I.P Battle GUI design + function: https://youtu.be/W20jUih0kvw
+
+
+5 day extension (New Submission date 13/05/25)
 
 
 THEMES
