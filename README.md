@@ -34,6 +34,7 @@ __[Role: Project code]__
 - W.I.P Battle GUI design + function: [Link](https://youtu.be/W20jUih0kvw)
 - Formatted ReadMe to look more professional + Spelling/Grammatical Errors
 
+The code is written in P5JS. P5JS is an OOP (Object Orientated Programming) language. The code works by being inputted into the computer's CPU (Central Processing Unit), Processes by the ALU (Arithmetic Logic Unit) along with the memory unit and control unit. Before it can be processed by the ALU, the code must be converted from a High-level programming language to a low-level programming language (Machine code / Binary) through the use of a compiler. Once the code is finally processed, it is then output on the screen as the game we have created. If you would like to find out how each piece of code works, read the code along with the code comments once they are uploaded.   
 ### <sub> >>Code will be uploaded later as I have taken a 5 Day extension<< </sub>
 
 ## THEMES
