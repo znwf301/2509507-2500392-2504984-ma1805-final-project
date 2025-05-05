@@ -15,6 +15,11 @@ ASR (A Shattered Reality) is a game about a girl who wakes up one day to the new
 
 INDIVIDUAL CONTRIBUTION
 Zack Da Silva: I was the level designer and dialogue writer of the project. Each level designed had to made up of 50 by 50 pixel tiles so that Andrew can code each tile to have collision. I prototypes each level design so that we get a main idea of where the different functions will be located, for example: fight activations, end-level locations and barriers. I planned the dialogue so that Andrew can simply copy and paste into a text function inside the sketch file. This is so that when the dialogue displayed in the dialogue UI, the speech and actions will be conveyed simply through text. My planning was quite ambitious so some levels were cut down for time and moral purposes. 
+Plan Powerpoint links: https://rhul-my.sharepoint.com/:p:/g/personal/znwf230_live_rhul_ac_uk/ER1WqUl4fB5PvXjBcx8WNJABI0OF5FBkGUlElWgqVrgN6g?email=Hugh.Hammond%40rhul.ac.uk&e=3a8XCu
+
+https://rhul-my.sharepoint.com/:p:/g/personal/znwf230_live_rhul_ac_uk/EWUgQLrFu6FDjcDKV9jD-U0BtguEuIqd5X2AeZZbvYF-UA?email=Hugh.Hammond%40rhul.ac.uk&e=ydRQCn
+
+Group Miro Board: https://miro.com/welcomeonboard/VFkwNmVsM0s0Y2xhTStqWFRZOTZZWFhOWHM1WkZVSUs3QVhTbWtoNHN1RUQwcjJMSHpldWp5SmdNMjdsajVsVXQ0STJBRmhrOG8vRjNKNS9jMmZhT2x1cC90UXBad3RUYk9YalFzeHhNSHFzeHJ1em1oWXFVc3JYMERZR2VHbFhNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=861790247883
 
 Max Babcock: My main contributions to the project were all of the art assets for the game itself, including the backgrounds, level tiles, and character icons and sprites. For the overworld level design, using the inital level designs provided to me by Zack, I planned out what type of assets to draw for them, and which assets could be modified in order to reduce workload. After initial sketches and planning, simple character icons were made to show whats where on the map, which would become more detailed when the player entered combat, with GIF sprites made by me being used on both sides. These ended up becoming more simplified due to time constranints. 
 
