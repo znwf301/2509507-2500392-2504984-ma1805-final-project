@@ -30,6 +30,7 @@ __[Role: Project code]__
 - Created the Original story (How character names fit the story, character motivation and game's deeper meaning)
 - Original character stats and mechaninics 
 - Game Designer (Cutscene layout, Level layout, Turn base layout, Image size guide [The max size/resolution images could be to help both Max and I])
+- My Contribution: [Link](https://youtu.be/uobXiEu9aG8)
 - Powerpoint (Made by me) showcasing the above: [Link](https://rhul-my.sharepoint.com/:p:/r/personal/znwf301_live_rhul_ac_uk/Documents/ASR.pptx?d=wd7f413f38b0c4e439321eebabe5d369f&csf=1&web=1&e=8C9wbI)
 - W.I.P Battle GUI design + function: [Link](https://youtu.be/W20jUih0kvw)
 - Formatted ReadMe to look more professional + Spelling/Grammatical Errors
