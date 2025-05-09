@@ -296,7 +296,7 @@ let level5 = {
 
 //LEVEL CONTROL VARIABLES
 let levels = [level0, level1, level2, level3, level4, level5];
-let currentLevel = 3;
+let currentLevel = 0;
 let graphicMap;
 let tileRules;
 let count;
@@ -447,7 +447,7 @@ function setup() {
 
     frameRate(60)
     //Create Player
-    player = new Player(playerSprite,6, 8, tileSize, tileRules);
+    player = new Player(playerSprite,5, 9, tileSize, tileRules);
 
     //Load Graphic Data
     loadLevel();
