@@ -21,7 +21,7 @@ let CC_Dialogue5 = ["*Mainyu falls like a tonne of bricks*","*His eyes roll back
 ////////////////////////////////////////////////////////////////////////////////////////////////////// Battle \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 //Player Stats - Assets
-let PlayerStats = [100000,0,0]   // HP, Defence,Coins
+let PlayerStats = [100,0,0]   // HP, Defence,Coins
 
 //Enemy Stats
 let Enemy_Names = ["Skelaton", "Slime", "Snake", "Ice Spirit", "Posessed Knight", "Mainyu"]
@@ -1357,7 +1357,6 @@ function BattleMode() {
   text("ATTACK",190,40)
   text("DEFEND",190,95)
   
-  image(Overlay, 0,0)
   AnimDamageHandler()
 
   
@@ -1487,10 +1486,6 @@ function shop() {
     text(`Coins: ${PlayerStats[2]}`,351, 491 )
     fill(102,0,255)
     text(`Coins: ${PlayerStats[2]}`,350, 490 )
-
-    text([mouseX,mouseY],300,200)
-  text(frameRate(),300,300)
-  text(frameCount,300,400)
 }
 
 function cutscene() {
