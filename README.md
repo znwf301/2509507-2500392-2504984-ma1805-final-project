@@ -6,7 +6,7 @@ BY (Tasteless Productions)
 MEMBERS: 2509507, 2500392, 2504984) 
 
 - LINK TO GITHUB REPO: [Here](https://github.com/znwf301/2509507-2500392-2504984-ma1805-final-project.git)
-- LINK TO GITHUB PAGES: [Coming soon](https://znwf301.github.io/2509507-2500392-2504984-ma1805-final-project/)
+- LINK TO GITHUB PAGES: [Here](https://znwf301.github.io/2509507-2500392-2504984-ma1805-final-project/)
 
 # OVERVIEW OF PROJECT
 ASR (A Shattered Reality) is a game about a girl who wakes up one day to the news that her brother has been kidnapped by an evil wizard. The player must explore each map, collect treasuries and fight enemies. The player must fend off enemies encountered throughout the game throuhg a turn based combat system. Strategy and key-decision making is crucial for victory. The main theme is fantasy, where the player is able to explore a world unbeknownst to our own. The game's artstyle is pixel art, to give a retro feel to the game. The message of this game is to never give up no matter the obstacles life puts in your way.
