@@ -37,8 +37,13 @@ __[Role: Project code]__
 - Created shop art + potion art + shop sign art + Pixel overlay 
 - Formatted ReadMe to look more professional + Spelling/Grammatical Errors
 
+The game is designed to be challenging. If you are struggelling, just keep on trying like any other gamer would. Explore and experiment with the game.
+The game gets harder as you progress. I will not explain how to beat the game.
+(The project has problems working on GITHUB, so I would advise downloading the project and running it locally within VS code).
+
 The code is written in P5JS. P5JS is an OOP (Object Orientated Programming) language. The code works by being inputted into the computer's CPU (Central Processing Unit), Processes by the ALU (Arithmetic Logic Unit) along with the memory unit and control unit. Before it can be processed by the ALU, the code must be converted from a High-level programming language to a low-level programming language (Machine code / Binary) through the use of a compiler. Once the code is finally processed, it is then output on the screen as the game we have created. If you would like to find out how each piece of code works, read the code along with the code comments once they are uploaded.   
 ### <sub> >>I used a 5 Day extension (due date for me: 13th May)<< </sub>
+### <sub> >>If for any reason I am once again suspected of cheating, please can you email me straight away so I can provide evidence to defend myself. Thank you<< </sub>
 
 ## THEMES
 The main theme of this project is to never give up. With the endless challenged Hecate has to face, the player must direct throught the dangerous fantasy world to test her limitations. It is also designed to empower women, instead of the cliche prince saves princess that is overdone and far too original, we have shone a light to Hecate and conveyed her warrior will-power to save her brother captured by an evil wizard. After finishing the game, the player should feel motivated and satisfied of their progression through some of the most challenging levels we have to offer.  
@@ -47,7 +52,7 @@ The main theme of this project is to never give up. With the endless challenged 
 The game is designed similarly to a retro style adventure game with dungeon exploration. It uses a tilemap that we used in class to map square locations of the entire canvas so that it could be referenced in code if specific tiles should activate another line of code or be a simpy barrier/collision. To give some originality, we have decided to add a turn-based system similar to RPGs to have some intensity to enemy battles. These are triggered when the player enters the line-of-sight from any given enemy. The player will be given attack and defend options in battle so they will be tested on their decision-making skills. This challenge is designed to enable the player to connect with the character in her battle with the dark forces of the fantasy world. 
 
 ## ASTHETIC DIMENSIONS
-We were able to settle on a theme early on, and after various team meeting that we held we landed on an artstyle that worked with our setting and was able to be made easily for both the turn based segments as well as the overworld exploration. Leveld designs and ideas as to what structures to have in them were discussed early on, as to make sure we got to work as soon as possible, and enemy design ideas were pitched and then reworked in order to have it fir in with the art style. Given how our overworld has taken inspiration from classic dungeon explorers, a tile map seemed like the best option to convey the adventure theme that is most loved by gamers. 
+We were able to settle on a theme early on, and after various team meeting that we held we landed on an artstyle that worked with our setting and was able to be made easily for both the turn based segments as well as the overworld exploration. Level designs and ideas as to what structures to have in them were discussed early on, as to make sure we got to work as soon as possible, and enemy design ideas were pitched and then reworked in order to have it fir in with the art style. Given how our overworld has taken inspiration from classic dungeon explorers, a tile map seemed like the best option to convey the adventure theme that is most loved by gamers. 
 
 ## UNREALISED ASPECTS OF PROJECT
 
