@@ -28,15 +28,17 @@ My main contributions to the project were all of the art assets for the game its
 __[Role: Project code]__
 - Created the Project name to fit with the story (fit far better with the Original story)
 - Created the Original story (How character names fit the story, character motivation and game's deeper meaning)
-- Original character stats and mechaninics 
+- Original character stats and mechaninics
+- Created new character stats + game mechanics
 - Game Designer (Cutscene layout, Level layout, Turn base layout, Image size guide [The max size/resolution images could be to help both Max and I])
 - My Contribution: [Link](https://youtu.be/uobXiEu9aG8)
 - Powerpoint (Made by me) showcasing the above: [Link](https://rhul-my.sharepoint.com/:p:/r/personal/znwf301_live_rhul_ac_uk/Documents/ASR.pptx?d=wd7f413f38b0c4e439321eebabe5d369f&csf=1&web=1&e=8C9wbI)
 - W.I.P Battle GUI design + function: [Link](https://youtu.be/W20jUih0kvw)
+- Created shop art + potion art + shop sign art + Pixel overlay 
 - Formatted ReadMe to look more professional + Spelling/Grammatical Errors
 
 The code is written in P5JS. P5JS is an OOP (Object Orientated Programming) language. The code works by being inputted into the computer's CPU (Central Processing Unit), Processes by the ALU (Arithmetic Logic Unit) along with the memory unit and control unit. Before it can be processed by the ALU, the code must be converted from a High-level programming language to a low-level programming language (Machine code / Binary) through the use of a compiler. Once the code is finally processed, it is then output on the screen as the game we have created. If you would like to find out how each piece of code works, read the code along with the code comments once they are uploaded.   
-### <sub> >>Code will be uploaded later as I have taken a 5 Day extension<< </sub>
+### <sub> >>I used a 5 Day extension (due date for me: 13th May)<< </sub>
 
 ## THEMES
 The main theme of this project is to never give up. With the endless challenged Hecate has to face, the player must direct throught the dangerous fantasy world to test her limitations. It is also designed to empower women, instead of the cliche prince saves princess that is overdone and far too original, we have shone a light to Hecate and conveyed her warrior will-power to save her brother captured by an evil wizard. After finishing the game, the player should feel motivated and satisfied of their progression through some of the most challenging levels we have to offer.  
