@@ -28,8 +28,8 @@ My main contributions to the project were all of the art assets for the game its
 __[Role: Project code]__
 - Created the Project name to fit with the story (fit far better with the Original story)
 - Created the Original story (How character names fit the story, character motivation and game's deeper meaning)
-- Original character stats and mechaninics
-- Created new character stats + game mechanics
+- Original character stats and mechaninics (Powerpoint explaining character, enemy info and gameplay)
+- Created new character stats + game mechanics (New stats and gameplay mechanics shown in code)
 - Game Designer (Cutscene layout, Level layout, Turn base layout, Image size guide [The max size/resolution images could be to help both Max and I])
 - My Contribution: [Link](https://youtu.be/uobXiEu9aG8)
 - Powerpoint (Made by me) showcasing the above: [Link](https://rhul-my.sharepoint.com/:p:/r/personal/znwf301_live_rhul_ac_uk/Documents/ASR.pptx?d=wd7f413f38b0c4e439321eebabe5d369f&csf=1&web=1&e=8C9wbI)
